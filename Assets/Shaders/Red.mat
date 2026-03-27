@@ -112,7 +112,7 @@ Material:
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
-    - _CutOff: 0.32
+    - _CutOff: 0.5
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
@@ -123,6 +123,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
+    - _NoiseStrength: 0.01
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
