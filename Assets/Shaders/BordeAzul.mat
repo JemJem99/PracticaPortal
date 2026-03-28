@@ -64,12 +64,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AberrationOffset: 4.44
     - _CellDensity: 11.96
     - _CutOff: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: 5
     m_Colors:
-    - _ColorBorde: {r: 0, g: 0.56786895, b: 1, a: 1}
+    - _AberrationOffset: {r: 2.14, g: -0.48, b: 0, a: 0}
+    - _ColorBorde: {r: 0, g: 1.1239691, b: 4.2870936, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
